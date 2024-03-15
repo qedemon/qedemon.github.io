@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.01304b9d.css",
-    "main.js": "/static/js/main.c8322176.js",
+    "main.css": "/static/css/main.bb302281.css",
+    "main.js": "/static/js/main.c80d237f.js",
     "static/media/NormalActivity 3.png": "/static/media/NormalActivity 3.55f65a3fb6d6351e3a8b.png",
     "static/media/SpecialActivity 2.png": "/static/media/SpecialActivity 2.8320ee27d78b30e5ad74.png",
     "static/media/SpecialActivity 1.png": "/static/media/SpecialActivity 1.e6ba473abce477bb5310.png",
@@ -19,6 +19,7 @@
     "static/media/Characters.svg": "/static/media/Characters.54a072aff58253c256b503d9e850119d.svg",
     "static/media/InfoCardFourth.svg": "/static/media/InfoCardFourth.4437b2b5473ac733979f3c4ad2ff30dd.svg",
     "static/media/allowanceText.txt": "/static/media/allowanceText.095dd016086d228b330d.txt",
+    "static/media/CharacterBlue.svg": "/static/media/CharacterBlue.da8940581c75eba287d8e6c7df796636.svg",
     "static/media/CloseRed.svg": "/static/media/CloseRed.81ece8eb919e84f5f8e31ef4cdad585b.svg",
     "index.html": "/index.html",
     "static/media/UpperLeft.svg": "/static/media/UpperLeft.e91b807a5d05284cc374eaa9dadea7c8.svg",
@@ -36,18 +37,21 @@
     "static/media/LeftCircleButton.svg": "/static/media/LeftCircleButton.6242c0e49541780fa8133ab8277c617c.svg",
     "static/media/RightCircleButton.svg": "/static/media/RightCircleButton.5bcc6389fea2bdfd72d9cead70c03785.svg",
     "static/media/moreButton.svg": "/static/media/moreButton.a597c63f722740f7a68ae550a093515f.svg",
+    "static/media/CharacterOrange.svg": "/static/media/CharacterOrange.58567a3d78e03bb1eb0c10745fcea635.svg",
+    "static/media/CharacterRed.svg": "/static/media/CharacterRed.8d7a3f07da4b7f42716e77a76a5d303f.svg",
     "static/media/LeftArrow.svg": "/static/media/LeftArrow.80d3e4004ce12e15d0b3713f6e110431.svg",
     "static/media/Close.svg": "/static/media/Close.e20279ac4433a2ac04225d21f9064a29.svg",
     "static/media/CheckBoxChecked.svg": "/static/media/CheckBoxChecked.66b27b464a6edac0058e3a0a7d427914.svg",
+    "static/media/Shield.svg": "/static/media/Shield.566f1c6a9030673fe767dcdc5998921a.svg",
     "static/media/DownButton.svg": "/static/media/DownButton.534bdd0e06eb28c16732724efaa3dcaa.svg",
     "static/media/UpButton.svg": "/static/media/UpButton.997e709058b4b1a4a38b98b1d7364bca.svg",
     "static/media/CheckBox.svg": "/static/media/CheckBox.8260dbf9939f5bc428538d736de03859.svg",
     "static/media/Check.svg": "/static/media/Check.41b1be9bd90c30f22797be3c0cd0fdb4.svg",
-    "main.01304b9d.css.map": "/static/css/main.01304b9d.css.map",
-    "main.c8322176.js.map": "/static/js/main.c8322176.js.map"
+    "main.bb302281.css.map": "/static/css/main.bb302281.css.map",
+    "main.c80d237f.js.map": "/static/js/main.c80d237f.js.map"
   },
   "entrypoints": [
-    "static/css/main.01304b9d.css",
-    "static/js/main.c8322176.js"
+    "static/css/main.bb302281.css",
+    "static/js/main.c80d237f.js"
   ]
 }
