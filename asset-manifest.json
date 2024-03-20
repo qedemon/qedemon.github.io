@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bb302281.css",
-    "main.js": "/static/js/main.b415162b.js",
+    "main.js": "/static/js/main.8226f235.js",
     "static/media/NormalActivity 3.png": "/static/media/NormalActivity 3.55f65a3fb6d6351e3a8b.png",
     "static/media/SpecialActivity 2.png": "/static/media/SpecialActivity 2.8320ee27d78b30e5ad74.png",
     "static/media/SpecialActivity 1.png": "/static/media/SpecialActivity 1.e6ba473abce477bb5310.png",
@@ -9,6 +9,9 @@
     "static/media/NormalActivity 2.png": "/static/media/NormalActivity 2.9390cc5590abef3c373d.png",
     "static/media/SpecialActivity 3.png": "/static/media/SpecialActivity 3.dc350b98ca3605318e76.png",
     "static/media/Rocket.svg": "/static/media/Rocket.5c30050daee4439e74a24df1fa07de27.svg",
+    "static/media/register.png": "/static/media/register.c4d18d2ef8605cad6d1a.png",
+    "static/media/QR.png": "/static/media/QR.9e4e73c249132eeb5250.png",
+    "static/media/admin.png": "/static/media/admin.d1b5690e06ab1952ddb3.png",
     "static/media/Planet.svg": "/static/media/Planet.e47924f72151360f18d95b80fee177e9.svg",
     "static/media/InfoCardThird.svg": "/static/media/InfoCardThird.a9ad0343e1be82c9244cd07913ee3206.svg",
     "static/media/InfoCardSecond.svg": "/static/media/InfoCardSecond.bf2105147f790ada0de9c34f7e49af7c.svg",
@@ -29,7 +32,7 @@
     "static/media/CharacterSuccess.svg": "/static/media/CharacterSuccess.4aa4e48c23c7aae2e0c75c3f9e0309a7.svg",
     "static/media/character.svg": "/static/media/character.50546c88cc9d89f9ecb1165bb84bdc5d.svg",
     "static/media/LowerRight.svg": "/static/media/LowerRight.623e177ff22d3b688104ab70fbd04cd7.svg",
-    "static/media/CloseButton.svg": "/static/media/CloseButton.3d255405f62b91ac9bc5afe79200f3d2.svg",
+    "static/media/CloseButton.svg": "/static/media/CloseButton.6ea14083c634ddedd3aef6c723e332b7.svg",
     "static/media/CheckCircle.svg": "/static/media/CheckCircle.a6836a53a90249d2304ab21a7cf18097.svg",
     "static/media/LowerCenter.svg": "/static/media/LowerCenter.83220121385e37226a4d3ccc2a1f0e0c.svg",
     "static/media/CharacterConfirm.svg": "/static/media/CharacterConfirm.e91bf989579b676f56eaa16139319264.svg",
@@ -48,10 +51,10 @@
     "static/media/CheckBox.svg": "/static/media/CheckBox.8260dbf9939f5bc428538d736de03859.svg",
     "static/media/Check.svg": "/static/media/Check.41b1be9bd90c30f22797be3c0cd0fdb4.svg",
     "main.bb302281.css.map": "/static/css/main.bb302281.css.map",
-    "main.b415162b.js.map": "/static/js/main.b415162b.js.map"
+    "main.8226f235.js.map": "/static/js/main.8226f235.js.map"
   },
   "entrypoints": [
     "static/css/main.bb302281.css",
-    "static/js/main.b415162b.js"
+    "static/js/main.8226f235.js"
   ]
 }
