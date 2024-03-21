@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bb302281.css",
-    "main.js": "/static/js/main.8226f235.js",
+    "main.js": "/static/js/main.512a469f.js",
     "static/media/NormalActivity 3.png": "/static/media/NormalActivity 3.55f65a3fb6d6351e3a8b.png",
     "static/media/SpecialActivity 2.png": "/static/media/SpecialActivity 2.8320ee27d78b30e5ad74.png",
     "static/media/SpecialActivity 1.png": "/static/media/SpecialActivity 1.e6ba473abce477bb5310.png",
@@ -12,6 +12,7 @@
     "static/media/register.png": "/static/media/register.c4d18d2ef8605cad6d1a.png",
     "static/media/QR.png": "/static/media/QR.9e4e73c249132eeb5250.png",
     "static/media/admin.png": "/static/media/admin.d1b5690e06ab1952ddb3.png",
+    "static/media/attendant.png": "/static/media/attendant.90bda002a786f799b38f.png",
     "static/media/Planet.svg": "/static/media/Planet.e47924f72151360f18d95b80fee177e9.svg",
     "static/media/InfoCardThird.svg": "/static/media/InfoCardThird.a9ad0343e1be82c9244cd07913ee3206.svg",
     "static/media/InfoCardSecond.svg": "/static/media/InfoCardSecond.bf2105147f790ada0de9c34f7e49af7c.svg",
@@ -51,10 +52,10 @@
     "static/media/CheckBox.svg": "/static/media/CheckBox.8260dbf9939f5bc428538d736de03859.svg",
     "static/media/Check.svg": "/static/media/Check.41b1be9bd90c30f22797be3c0cd0fdb4.svg",
     "main.bb302281.css.map": "/static/css/main.bb302281.css.map",
-    "main.8226f235.js.map": "/static/js/main.8226f235.js.map"
+    "main.512a469f.js.map": "/static/js/main.512a469f.js.map"
   },
   "entrypoints": [
     "static/css/main.bb302281.css",
-    "static/js/main.8226f235.js"
+    "static/js/main.512a469f.js"
   ]
 }
